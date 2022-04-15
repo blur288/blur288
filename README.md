@@ -1,6 +1,6 @@
 ### ***I'm Cole,***
 
--🌊 Im a 15 year old developer from the bay area<br>
+-🌊 Im a 16 year old developer from the bay area<br>
 -⚙️ I mostly work with low-level languages and libraries<br>
 -🤔 I would like to learn Javascript and web design in 2022<br>
 -👯 Im always looking to colaberate and learn/make new things<br>
