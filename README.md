@@ -1,9 +1,9 @@
 ### ***I'm Cole,***
 
--🌊 Im a 16 year old developer from the bay area<br>
+-🌊 Im a 17 year old developer from the bay area<br>
 -⚙️ I mostly work with low-level languages and libraries<br>
 -🤔 I would like to learn Javascript and web design in 2022<br>
--👯 Im always looking to colaberate and learn/make new things<br>
+-👯 Im always looking to collaborate and learn/make new things<br>
 -📫 You can reach me through my contact information on my [Website](https://blur288.github.io/src/Contact.html)<br>
 -📊 The graphics library I like most and use most is [Raylib](https://www.raylib.com/)<br>
 
